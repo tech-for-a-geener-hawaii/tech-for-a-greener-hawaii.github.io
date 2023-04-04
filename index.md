@@ -1,15 +1,15 @@
 # Aloha Plants
 
 ## Our Team
-Ethan Burks - Undergraduate student at the University of Hawaiʻi at Mānoa
-<br></br>
-Austin Dang - Undergraduate student at the University of Hawaiʻi at Mānoa
+Ethan Burks - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences
 
-Brian Dang - Undergraduate student at the University of Hawaiʻi at Mānoa
+Austin Dang - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences
 
-Justin Lisoway - Graduate student studying finance and computer science at the University of Hawaiʻi at Mānoa 
+Brian Dang - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences
 
-Joel Nicolow - Undergraduate student at the University of Hawaiʻi at Mānoa [https://jnicolow.github.io/](https://jnicolow.github.io/)
+Justin Lisoway - Graduate student at the University of Hawaiʻi at Mānoa Finance and Information and Computer Sciences
+
+Joel Nicolow - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences and Public Health [https://jnicolow.github.io/](https://jnicolow.github.io/)
 
 ## Overview
 ### The Problem
