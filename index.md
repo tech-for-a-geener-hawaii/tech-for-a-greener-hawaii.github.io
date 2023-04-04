@@ -9,7 +9,7 @@ Brian Dang - Undergraduate student at the University of Hawaiʻi at Mānoa Infor
 
 Justin Lisoway - Graduate student at the University of Hawaiʻi at Mānoa Finance and Information and Computer Sciences
 
-Joel Nicolow - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences and Public Health [https://jnicolow.github.io/](https://jnicolow.github.io/)
+[Joel Nicolow](https://jnicolow.github.io/) - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences and Public Health [https://jnicolow.github.io/](https://jnicolow.github.io/)
 
 ## Overview
 ### The Problem
