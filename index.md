@@ -3,9 +3,12 @@
 ## Our Team
 Ethan Burks - Undergraduate student at the University of Hawaiʻi at Mānoa
 <br></br>
-Austin Dang - Undergraduate student at the University of Hawaiʻi at Mānoa \n
+Austin Dang - Undergraduate student at the University of Hawaiʻi at Mānoa
+
 Brian Dang - Undergraduate student at the University of Hawaiʻi at Mānoa
+
 Justin Lisoway - Graduate student studying finance and computer science at the University of Hawaiʻi at Mānoa 
+
 Joel Nicolow - Undergraduate student at the University of Hawaiʻi at Mānoa [https://jnicolow.github.io/](https://jnicolow.github.io/)
 
 ## Overview
