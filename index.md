@@ -1,5 +1,12 @@
 # Aloha Plants
 
+## Our Team
+Ethan Burks - Undergraduate student at the University of Hawaiʻi at Mānoa
+Austin Dang - Undergraduate student at the University of Hawaiʻi at Mānoa
+Brian Dang - Undergraduate student at the University of Hawaiʻi at Mānoa
+Justin Lisoway - Graduate student studying finance and computer science at the University of Hawaiʻi at Mānoa 
+Joel Nicolow - Undergraduate student at the University of Hawaiʻi at Mānoa [https://jnicolow.github.io/](https://jnicolow.github.io/)
+
 ## Overview
 ### The Problem
 Due to Hawaiʻis geographical isolation Hawaiʻi is characterized by by high biodiversity with over 10,000 species found nowhere else on earth [2]. Today, up to 95% of Hawaii’s dryland forest has been destroyed while only 40% of mesic forest remains [3].  segue
