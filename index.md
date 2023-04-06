@@ -43,13 +43,16 @@ The “Aloha Plants” website allows you to search and view different native pl
 
 Landing page
 - Plant/project browser
+- 
 <img src="homePage.png">
 
 Sign up page
-<img src="signup.PNG">
+
+<img src="signup.PNG" width=500>
 
 User home page
 - Display relevant projects/ recent forums based on interests
+
 <img src="userHomePage.png">
 
 Adim page
@@ -72,6 +75,7 @@ Plant browser
 - Description
 - Plant environment
 - interests
+
 <img src="searchPlants.png">
 
 Project browser
