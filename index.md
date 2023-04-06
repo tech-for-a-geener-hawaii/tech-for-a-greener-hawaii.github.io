@@ -109,10 +109,10 @@ Project creation page
 
 
 ## Beyond the basics
-Implementing a chat system between users
-Email notifications for new projects
-Email Notification for deleted forum of user
-Adding a upvote/rating system on forums
-Customizable profile page
-Adding in profile pictures
-Change page color
+- Implementing a chat system between users
+- Email notifications for new projects
+- Email Notification for deleted forum of user
+- Adding a upvote/rating system on forums
+- Customizable profile page
+- Adding in profile pictures
+- Change page color
