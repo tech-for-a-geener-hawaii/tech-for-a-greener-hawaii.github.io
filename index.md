@@ -116,3 +116,6 @@ Project creation page
 - Customizable profile page
 - Adding in profile pictures
 - Change page color
+
+## M1
+[Milestone 1](https://github.com/orgs/tech-for-a-geener-hawaii/projects/2/views/1)
