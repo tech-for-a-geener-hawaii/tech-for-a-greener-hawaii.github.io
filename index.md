@@ -39,34 +39,43 @@ The “Aloha Plants” website allows you to search and view different native pl
 
 ## Mockup page ideas
 Landing page
-Plant/project browser
+- Plant/project browser
+
 User home page
-Display relevant projects/ recent forums based on interests
+- Display relevant projects/ recent forums based on interests
+
 Adim page
-Edit plants, projects, forums, and people
+- Edit plants, projects, forums, and people
+
 User profile card
-Image, name, interests, forums opened
+- Image, name, interests, forums opened
+
 Creator page
-Able to edit plants, projects, and create plants/projects
+- Able to edit plants, projects, and create plants/projects
+
 Forum Page
-Where to buy hawaiian plants and canoe plants
+- Where to buy hawaiian plants and canoe plants
+
 Plant browser
-Each plant will have a card
-Image 
-Hawaiian name(s)
-scientific/common name(s)
-Description
-Plant environment
-interests
+- Each plant will have a card
+- Image 
+- Hawaiian name(s)
+- scientific/common name(s)
+- Description
+- Plant environment
+- interests
+
 Project browser
-Each project will have a card
-Image
-Name
-Location
-Link to webpage (if applicable)
-Description
-Interests
+- Each project will have a card
+- Image
+- Name
+- Location
+- Link to webpage (if applicable)
+- Description
+- Interests
+
 Account creation page
+
 Project creation page
 
 ## User Types 
