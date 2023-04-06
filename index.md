@@ -43,7 +43,7 @@ The “Aloha Plants” website allows you to search and view different native pl
 
 Landing page
 - Plant/project browser
-- 
+
 <img src="homePage.png">
 
 Sign up page
