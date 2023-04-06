@@ -46,7 +46,7 @@ Landing page
 <img src="homePage.png">
 
 Sign up page
-<img src="signup.png">
+<img src="signup.PNG">
 
 User home page
 - Display relevant projects/ recent forums based on interests
