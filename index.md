@@ -7,7 +7,7 @@ Austin Dang - Undergraduate student at the University of Hawaiʻi at Mānoa Info
 
 Brian Dang - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences
 
-Justin Lisoway - Graduate student at the University of Hawaiʻi at Mānoa Finance and Information and Computer Sciences
+[Justin Lisoway](https://justinlisoway.github.io/) - Graduate student at the University of Hawaiʻi at Mānoa Finance and Information and Computer Sciences
 
 [Joel Nicolow](https://jnicolow.github.io/) - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences and Public Health
 
