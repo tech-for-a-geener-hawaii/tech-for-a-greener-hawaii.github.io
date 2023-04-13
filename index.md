@@ -11,6 +11,8 @@ Brian Dang - Undergraduate student at the University of Hawaiʻi at Mānoa Infor
 
 [Joel Nicolow](https://jnicolow.github.io/) - Undergraduate student at the University of Hawaiʻi at Mānoa Information and Computer Sciences and Public Health
 
+[Team Contract](https://docs.google.com/document/d/11s41Tvha4MiEvYDh8vSLZo-ZFsDw1gTq5bLksJaobW0/edit)
+
 ## Overview
 ### The Problem
 Due to Hawaiʻis geographical isolation Hawaiʻi is characterized by by high biodiversity with over 10,000 species found nowhere else on earth [2]. Today, up to 95% of Hawaii’s dryland forest has been destroyed while only 40% of mesic forest remains [3].  segue
@@ -44,16 +46,14 @@ The “Aloha Plants” website allows you to search and view different native pl
 Landing page
 - Plant/project browser
 
-<img src="Landing_M1.png">
+<img src="Landing_M1.png" width=500>
 
 Sign up page
 
-<img src="signup.PNG" width=500>
+<img src="Sign-up_M1.PNG" width=500>
 
 User home page
 - Display relevant projects/ recent forums based on interests
-
-<img src="userHomePage.png">
 
 Adim page
 - Edit plants, projects, forums, and people
@@ -67,6 +67,8 @@ Creator page
 Forum Page
 - Where to buy hawaiian plants and canoe plants
 
+<img src="Forums_M1.PNG" width=500>
+
 Plant browser
 - Each plant will have a card
 - Image 
@@ -76,7 +78,7 @@ Plant browser
 - Plant environment
 - interests
 
-<img src="searchPlants.png">
+<img src="Plants_M1.png" width=500>
 
 Project browser
 - Each project will have a card
@@ -86,6 +88,9 @@ Project browser
 - Link to webpage (if applicable)
 - Description
 - Interests
+
+<img src="Projects_M1.png" width=500>
+
 
 Account creation page
 
@@ -118,4 +123,7 @@ Project creation page
 - Change page color
 
 ## M1
-[Milestone 1](https://github.com/orgs/tech-for-a-geener-hawaii/projects/2/views/1)
+[Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
+
+## M2
+[Milestone 2](https://github.com/orgs/tech-for-a-greener-hawaii/projects/3/views/1?layout=board)
