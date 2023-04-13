@@ -44,7 +44,7 @@ The “Aloha Plants” website allows you to search and view different native pl
 Landing page
 - Plant/project browser
 
-<img src="homePage.png">
+<img src="Landing_M1.png">
 
 Sign up page
 
