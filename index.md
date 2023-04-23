@@ -126,6 +126,6 @@ Project creation page
 [Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
 
 ## M2
-[Milestone 2](https://github.com/orgs/tech-for-a-greener-hawaii/projects/3/views/1?layout=board)
+[Milestone 2](https://github.com/orgs/tech-for-a-greener-hawaii/projects/3/views/2)
 
 ## [Deployment](http://138.68.181.115/)
