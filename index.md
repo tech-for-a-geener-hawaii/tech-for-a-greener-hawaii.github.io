@@ -93,7 +93,7 @@ As a user you are unable to add in new projects, plants, or forums but you are g
 <img width="1000px" class="img-fluid" src="comments.png">
 
 
-Developer Guide
+## Developer Guide
 When you first log in as a developer you are also greeted with a landing page and given access to all basic user actions. But as developer you are now given access to the functionalities of add project,
 
 
