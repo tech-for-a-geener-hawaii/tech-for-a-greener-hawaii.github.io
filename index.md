@@ -74,6 +74,40 @@ And the plant browser:
 
 <img width="1000px" class="img-fluid" src="plantBrowser.png">
 
+To access the full page we must login
+
+<img width="1000px" class="img-fluid" src="login.png">
+
+When you log-in as a default user you are redirected to the userhomepage which shows the 3 pages you have access to project plants and a new page forums
+
+<img width="1000px" class="img-fluid" src="forums.png">
+
+You may also edit your user profile and update your profile image
+
+
+<img width="1000px" class="img-fluid" src="settings.png">
+
+As a user you are unable to add in new projects, plants, or forums but you are given the ability to comment
+
+
+<img width="1000px" class="img-fluid" src="comments.png">
+
+
+Developer Guide
+When you first log in as a developer you are also greeted with a landing page and given access to all basic user actions. But as developer you are now given access to the functionalities of add project,
+
+
+<img width="1000px" class="img-fluid" src="addproject.png">
+
+.. Add plant
+
+
+<img width="1000px" class="img-fluid" src="addplant.png">
+
+and add forum
+
+
+<img width="1000px" class="img-fluid" src="addforum.png">
 
 ## M1
 [Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
