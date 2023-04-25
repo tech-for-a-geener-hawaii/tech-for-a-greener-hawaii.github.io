@@ -63,7 +63,7 @@ The “Aloha Plants” website allows you to search and view different native pl
 
 ## User Guide
 When you first enter the page you are greeted with the aloha-plants landing page.
-<img width="100px" class="rounded float-start pe-4" src="landing.png">
+<img width="1000px" class="img-fluid" src="landing.png">
 
 ## M1
 [Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
