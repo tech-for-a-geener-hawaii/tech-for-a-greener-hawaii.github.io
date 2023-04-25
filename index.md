@@ -61,6 +61,10 @@ The “Aloha Plants” website allows you to search and view different native pl
 - Email Notification for deleted forum of user
 - Adding a upvote/rating system on forums
 
+## User Guide
+When you first enter the page you are greeted with the aloha-plants landing page.
+<img width="100px" class="rounded float-start pe-4" src="landing.png">
+
 ## M1
 [Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
 
