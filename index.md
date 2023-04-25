@@ -63,7 +63,17 @@ The “Aloha Plants” website allows you to search and view different native pl
 
 ## User Guide
 When you first enter the page you are greeted with the aloha-plants landing page.
+
 <img width="1000px" class="img-fluid" src="landing.png">
+
+As a non user you are able to view the project browser:
+
+<img width="500px" class="img-fluid" src="projectBrowser.png">
+
+And the plant browser:
+
+<img width="500px" class="img-fluid" src="plantBrowser.png">
+
 
 ## M1
 [Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
