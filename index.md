@@ -39,69 +39,11 @@ https://files.hawaii.gov/dbedt/op/spb/INCREASED_FOOD_SECURITY_AND_FOOD_SELF_SUFF
 ### The Solution
 The “Aloha Plants” website allows you to search and view different native plants, forums, and community projects. When searching for native plants it will provide information on how to grow native species and the specific areas to cultivate the plants. This aids the fauna in Hawaii by giving resources to the community to allow them to increase biodiversity by hand. The user will also be exposed to various resources that foster community interaction such as the forums page and community projects page on the website. This will also give the community information to grow their own foods, which will allow the user’s within the community to potentially alleviate the hawaii food crisis.The website will also allow creator users to add in unlogged native plant species to provide users a new native plant variety to grow. This will allow us to log all plant species in a cloud environment, which can be provided to scientific institutes such as the College of Tropical Agriculture and Human Resources and The University of Hawaiʻi at Mānoa Botany Department.
 
-## Mockup page ideas
-
-
-
-Landing page
-- Plant/project browser
-
-<img src="Landing_M1.png" width=500>
-
-Sign up page
-
-<img src="Sign-up_M1.PNG" width=500>
-
-User home page
-- Display relevant projects/ recent forums based on interests
-
-Adim page
-- Edit plants, projects, forums, and people
-
-User profile card
-- Image, name, interests, forums opened
-
-Creator page
-- Able to edit plants, projects, and create plants/projects
-
-Forum Page
-- Where to buy hawaiian plants and canoe plants
-
-<img src="Forums_M1.PNG" width=500>
-
-Plant browser
-- Each plant will have a card
-- Image 
-- Hawaiian name(s)
-- scientific/common name(s)
-- Description
-- Plant environment
-- interests
-
-<img src="Plants_M1.png" width=500>
-
-Project browser
-- Each project will have a card
-- Image
-- Name
-- Location
-- Link to webpage (if applicable)
-- Description
-- Interests
-
-<img src="Projects_M1.png" width=500>
-
-
-Account creation page
-
-Project creation page
 
 ## User Types 
 **Non-user**: Users that have not created a profile first visit the landing page where they can browse plants, projects, and forums. However, they will not be able to create or reply to forums.
 
 **User**: Users that have created a profile are able to browse plants, projects, and forums. Also given the ability to create, or reply to forums.
-
-**Creator**: The creator account has the same privileges as the user class but with the added permission to edit and create plants and projects.
 
 **Admin**: Admin account is granted permissions to edit, create plants, projects, as well as forums just like the previous user types. They are also able to delete user accounts.
 
@@ -118,9 +60,6 @@ Project creation page
 - Email notifications for new projects
 - Email Notification for deleted forum of user
 - Adding a upvote/rating system on forums
-- Customizable profile page
-- Adding in profile pictures
-- Change page color
 
 ## M1
 [Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
@@ -128,4 +67,7 @@ Project creation page
 ## M2
 [Milestone 2](https://github.com/orgs/tech-for-a-greener-hawaii/projects/3/views/2)
 
-## [Deployment](http://138.68.181.115/)
+## M3
+[Milestone 3](https://github.com/orgs/tech-for-a-greener-hawaii/projects/5/views/1)
+
+## [Deployment](https://aloha-plants.online/)
