@@ -68,11 +68,11 @@ When you first enter the page you are greeted with the aloha-plants landing page
 
 As a non user you are able to view the project browser:
 
-<img width="500px" class="img-fluid" src="projectBrowser.png">
+<img width="1000px" class="img-fluid" src="projectBrowser.png">
 
 And the plant browser:
 
-<img width="500px" class="img-fluid" src="plantBrowser.png">
+<img width="1000px" class="img-fluid" src="plantBrowser.png">
 
 
 ## M1
