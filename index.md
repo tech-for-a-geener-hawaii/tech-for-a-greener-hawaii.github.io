@@ -109,9 +109,7 @@ and add forum
 
 <img width="1000px" class="img-fluid" src="addforum.png">
 
-<p><a href="" alt="Tests Passing"></a>
-<a href=""><img src="" alt="Lint Checks Passing"></a>
-<a href=""><img src="" alt="Deployment Successful"></a></p>
+![ci-badge](https://github.com/tech-for-a-greener-hawaii/aloha-plants/workflows/TestCafe/badge.svg)
 
 ## M1
 [Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
