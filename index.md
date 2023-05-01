@@ -109,7 +109,7 @@ and add forum
 
 <img width="1000px" class="img-fluid" src="addforum.png">
 
-![ci-badge](https://github.com/tech-for-a-greener-hawaii/aloha-plants/workflows/ci/badge.svg)
+![ci-badge](https://github.com/tech-for-a-greener-hawaii/aloha-plants/workflows/aloha-plants/badge.svg)
 
 ## M1
 [Milestone 1](https://github.com/orgs/tech-for-a-greener-hawaii/projects/2)
