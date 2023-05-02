@@ -115,7 +115,11 @@ and add forum
 
 **Alie Wolpo** - Look and feel of the forum page definetely needs improvement. Noticed bug where you are allowed to delete your own user as an admin. Likes the look of the plant and project cards. Would be easier to view projects and or plants based on filters instead of raw searching names.
 
-**Ian Hill** - Does not know what the website is about upon entering landing page. Change landing page to give more information on the website. Make plant page more accessible on the landing page. For user homepage implement a limit of projects showcased, possibly click on project card to receive more info on project. Create pagination for forums as well. Scrolling through the forums page is awkward and feels empty. 
+**Ian Hill** - Does not know what the website is about upon entering landing page. Change landing page to give more information on the website. Make plant page more accessible on the landing page. For user homepage implement a limit of projects showcased, possibly click on project card to receive more info on project. Create pagination for forums as well. Scrolling through the forums page is awkward and feels empty.
+
+**Isabelle Camann** - "I like the overall idea of the site, but I think it can be difficult to find projects that I'm interested in if I don't already know the name. Ie: the project labels are not very useful, because there is no way to filter or search based on them."
+
+**Kyle Aldover** - "There are some inconsistent design elements, most pages have a white background, while the forums page randomly has a picture. I like the 2 green colors used throughout though. The forums page in general just doesn't look or feel finished."
 
 ## Developer Guide
 
@@ -123,7 +127,7 @@ First, install Meteor.
 
 Second, visit the Aloha Plants application github page, and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
 
-Third, cd into the bowfolios/app directory and install libraries with:
+Third, cd into the aloha-plants/app directory and install libraries with:
 
 ```
 $ meteor npm install
