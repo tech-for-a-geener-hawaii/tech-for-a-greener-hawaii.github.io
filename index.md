@@ -115,7 +115,7 @@ and add forum
 
 **Alie Wolpo** - Look and feel of the forum page definetely needs improvement. Noticed bug where you are allowed to delete your own user as an admin. Likes the look of the plant and project cards. Would be easier to view projects and or plants based on filters instead of raw searching names.
 
-**Ian Hill** - 
+**Ian Hill** - Does not know what the website is about upon entering landing page. Change landing page to give more information on the website. Make plant page more accessible on the landing page. For user homepage implement a limit of projects showcased, possibly click on project card to receive more info on project. Create pagination for forums as well. Scrolling through the forums page is awkward and feels empty. 
 
 ## Developer Guide
 
