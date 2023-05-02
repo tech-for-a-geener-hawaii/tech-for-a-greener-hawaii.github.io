@@ -109,6 +109,40 @@ and add forum
 
 <img width="1000px" class="img-fluid" src="addforum.png">
 
+
+## Community Feedback
+**Amanda Mass** - Website serves purpose to show case community projects as well as instant plant info. Could utilize a filter button as well as search bar. Sifting/scrolling for information is inconvenient. Likes logo, thinks logo is cute/inviting. Forum needs a rework. 
+
+**Alie Wolpo** - Look and feel of the forum page definetely needs improvement. Noticed bug where you are allowed to delete your own user as an admin. Likes the look of the plant and project cards. Would be easier to view projects and or plants based on filters instead of raw searching names.
+
+**Ian Hill** - 
+
+## Developer Guide
+
+First, install Meteor.
+
+Second, visit the Aloha Plants application github page, and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the bowfolios/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at http://localhost:3000.
+
+
+## Continuous Integration
+
+Aloha Plants uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent "workflows" at [https://github.com/tech-for-a-greener-hawaii/aloha-plants/actions](https://github.com/tech-for-a-greener-hawaii/aloha-plants/actions).
+
+
 ![ci-badge](https://github.com/tech-for-a-greener-hawaii/aloha-plants/workflows/aloha-plants/badge.svg)
 
 ## M1
